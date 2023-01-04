@@ -1,0 +1,128 @@
+#container
+{
+    width: 1600px;
+    margin: auto;
+}
+
+.n1
+{
+    text-align: center; 
+    background-color: #c0c0c0;
+    color: #00ff00; 
+}
+
+.n2:hover
+{
+    background-color: #ff0000; 
+    color: #ffff00;
+    font-size: x-large; 
+    font-style: italic;
+}
+
+.n2
+{
+    text-align: center; 
+    background-color: #ffff99;
+    color: #00ffff;
+}
+
+.n3
+{
+    text-align: right; 
+    background-color: #800000;
+    color: #808000; 
+}
+
+.n3:visited
+{
+    background-color: #00ffff; 
+    color: #000080;
+}
+
+
+.n4
+{
+    text-align: left; 
+    background-color: #ff99ff;
+    color: #0000ff; 
+}
+
+#n5
+{
+    text-align: center; 
+    background-color: #00ffff;
+    color: #000080;
+}
+
+.n6
+{
+    text-align: left; 
+    background-color: #ff99ff;
+    color: #00ff00; 
+}
+
+.n7
+{
+    text-align: right; 
+    background-color: #800000;
+    color: #00ffff;
+}
+
+.n8
+{
+    text-align: center; 
+    background-color: #ffff99;
+    color: #808000; 
+}
+
+.n9
+{
+    text-align: center; 
+    background-color: #c0c0c0;
+    color: #0000ff; 
+}
+
+.i1
+{
+    color: #ff0000;
+}
+
+.i2
+{
+    color: #008000;
+}
+
+.i3
+{
+    color: #008080;
+}
+
+.i4
+{
+    color: #800080;
+}
+
+#i5
+{
+    color: #ffff00;
+}
+
+.i6
+{
+    color: #ff0000;
+}
+
+.i7
+{
+    color: #008000;
+}
+
+.i8
+{
+    color: #008080;
+}
+
+.i9
+{
+    color: #800080;
+}
